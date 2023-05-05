@@ -673,12 +673,12 @@ namespace _2_1_Call_MSGraph.Controllers
         {
             //var data = await FindByUserType();
             // var data = await GetUserInfoFromGraphAPI();
-            //AuthenticationContext authContext = new AuthenticationContext("https://login.microsoftonline.com/" + "3deed68b-4a9f-4ce5-aa47-1ab17ef7cfbe");
-            //ClientCredential clientCredential = new ClientCredential("b603c7be-a866-4aea-ad87-e6921e61f925", "Vxf1SluKbgu4PF0Nf3wE5oGl/2XDSeZ8wL/Yp8ns4sc=");
+            //AuthenticationContext authContext = new AuthenticationContext("https://login.microsoftonline.com/" + "3deed68b-4a9f47-1ab17ef7cfbe");
+            //ClientCredential clientCredential = new ClientCredential("b603c7be-a866-7-e6921e61f925", "Vxf1SluKbgu4PF0NfDSeZ8wL/Yp8ns4sc=");
             //var authResult = await authContext.AcquireTokenAsync("https://graph.microsoft.com", clientCredential);
 
-            var clientID = "b603c7be-a866-4ae6921e61f925";
-            var clientSecret = "Vxf1SluKbDSeZ8wL/Yp8ns4sc=";
+            var clientID = "b603c7be-4ae6921e61f925";
+            var clientSecret = "Vxf1SluKbDS/Yp8ns4sc=";
             var tenant = "3deed68b--1ab17ef7cfbe";
 
             var appCred = new ClientCredential(clientID, clientSecret);
@@ -722,9 +722,9 @@ namespace _2_1_Call_MSGraph.Controllers
         {
             try
             {
-                var clientID = "00ab01dc-0787e26-875da8fbbf8e";//"b603c7be-a866d87-e6921e61f925";
-                var clientSecret = "m.Q7Q~.FEkMjyVO2gvGw0j";//"Vxf1SluKbgu4PF0Nf2XDSeZ8wL/Yp8ns4sc=";
-                var tenant = "e4c9ab4e-bd27-40ba2a757fb";//"3deed68b-4a9f-4ce5-a17ef7cfbe";
+                var clientID = "00ab01dc-75da8fbbf8e";//"b603c7be-a866d87-e6921e61f925";
+                var clientSecret = "m.Q7VO2gvGw0j";//"Vxf1SluKbgu4PF0N/Yp8ns4sc=";
+                var tenant = "e4c9ab4e-bda2a757fb";//"3deed68b-4a9a17ef7cfbe";
                 IConfidentialClientApplication app;
                 app = ConfidentialClientApplicationBuilder.Create(clientID)
                                                           .WithClientSecret(clientSecret)
@@ -739,7 +739,7 @@ namespace _2_1_Call_MSGraph.Controllers
                           "Authorization",
                            String.Format("Bearer " + result.AccessToken)
                            );
-                HttpResponseMessage meResult = await sender.GetAsync("https://graph.microsoft.com/v1.0/users/Kiron@hanxia.onmicrosoft.com/photo/$value");
+                HttpResponseMessage meResult = await sender.GetAsync("https://graph.microsoft.com/v1.0/users/anxia.onmicrosoft.com/photo/$value");
                 string context = await meResult.Content.ReadAsStringAsync();
                 //   byte[] photoByte = ((MemoryStream)context.)
                 // ViewData["photo"] = Convert.ToBase64String(context);
