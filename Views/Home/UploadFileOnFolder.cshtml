@@ -1,0 +1,59 @@
+﻿@using Newtonsoft.Json.Linq
+@using _2_1_Call_MSGraph.Models
+@{
+    ViewData["Title"] = "UploadFileOnFolder";
+}
+
+<br />
+@{
+    var message = ViewData["message"];
+    <h3>@message</h3>
+
+}
+
+<table class="table-bordered ">
+    <tbody>
+        @{
+            //as Microsoft.Graph.Drive
+            var fileInfo = (RecentFiles)ViewData["filesInfo"];
+            <tr>
+
+                <td><strong>Serial No</strong></td>
+                <td><strong> @fileInfo.SerialNo</strong></td>
+            </tr>
+            <tr>
+
+                <td>File Name</td>
+                <td> @fileInfo.FileName</td>
+            </tr>
+            <tr>
+                <td>Web URL</td>
+                <td><a href="@fileInfo.WebUrl" target="_blank">@fileInfo.WebUrl</a></td>
+            </tr>
+            <tr>
+                <td>Created Time</td>
+                <td>@fileInfo.CreatedDateTime </td>
+            </tr>
+            <tr>
+                <td>Folder Name</td>
+                <td>@fileInfo.ParentFolderId </td>
+            </tr>
+            <tr>
+                <td>Created Date</td>
+                <td>@fileInfo.CreatedDateTime</td>
+            </tr>
+            <tr>
+                @using (Html.BeginForm("RecentFileInfo", "Home", FormMethod.Get))
+                {
+                    <td></td>
+                    <td>
+                        <input type="submit" value="List All Flies" />
+                    </td>
+                }
+            </tr>
+
+
+        }
+    </tbody>
+</table>
+

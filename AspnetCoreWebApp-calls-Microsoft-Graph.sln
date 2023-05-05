@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApp-OpenIDConnect-DotNet", "WebApp-OpenIDConnect-DotNet.csproj", "{76F9C1E5-3CF7-4C9A-A0EC-D15B5F11022D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorApps", "..\BlazorApps\BlazorApps.csproj", "{65AFE299-66DC-4ED2-BCF6-E8F1E0369383}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthenticationBlazorApp", "..\AuthenticationBlazorApp\AuthenticationBlazorApp.csproj", "{C3D64E1D-58B9-47D2-A675-C28F0A75A4D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthTest2", "..\AuthTest2\AuthTest2.csproj", "{29BDC31B-3048-49C9-AEA2-6138A9FD4213}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asp.NetApp", "..\Asp.NetApp\Asp.NetApp.csproj", "{7C2E1FEA-4A4F-4054-BB32-0D1F4AE89BDC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppProject", "..\ConsoleAppProject\ConsoleAppProject.csproj", "{994FB504-3328-42C0-9255-E479808E748A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebAppAuth", "..\CoreWebAppAuth\CoreWebAppAuth.csproj", "{008C7D35-2BF5-4224-A2A5-F7A01202AFED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76F9C1E5-3CF7-4C9A-A0EC-D15B5F11022D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F9C1E5-3CF7-4C9A-A0EC-D15B5F11022D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F9C1E5-3CF7-4C9A-A0EC-D15B5F11022D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F9C1E5-3CF7-4C9A-A0EC-D15B5F11022D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65AFE299-66DC-4ED2-BCF6-E8F1E0369383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65AFE299-66DC-4ED2-BCF6-E8F1E0369383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65AFE299-66DC-4ED2-BCF6-E8F1E0369383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65AFE299-66DC-4ED2-BCF6-E8F1E0369383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D64E1D-58B9-47D2-A675-C28F0A75A4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D64E1D-58B9-47D2-A675-C28F0A75A4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D64E1D-58B9-47D2-A675-C28F0A75A4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D64E1D-58B9-47D2-A675-C28F0A75A4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29BDC31B-3048-49C9-AEA2-6138A9FD4213}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BDC31B-3048-49C9-AEA2-6138A9FD4213}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BDC31B-3048-49C9-AEA2-6138A9FD4213}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BDC31B-3048-49C9-AEA2-6138A9FD4213}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C2E1FEA-4A4F-4054-BB32-0D1F4AE89BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2E1FEA-4A4F-4054-BB32-0D1F4AE89BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2E1FEA-4A4F-4054-BB32-0D1F4AE89BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2E1FEA-4A4F-4054-BB32-0D1F4AE89BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{994FB504-3328-42C0-9255-E479808E748A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994FB504-3328-42C0-9255-E479808E748A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994FB504-3328-42C0-9255-E479808E748A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994FB504-3328-42C0-9255-E479808E748A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{008C7D35-2BF5-4224-A2A5-F7A01202AFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008C7D35-2BF5-4224-A2A5-F7A01202AFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008C7D35-2BF5-4224-A2A5-F7A01202AFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008C7D35-2BF5-4224-A2A5-F7A01202AFED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB49E34F-5B62-4F54-BAEA-C6473483C761}
+	EndGlobalSection
+EndGlobal

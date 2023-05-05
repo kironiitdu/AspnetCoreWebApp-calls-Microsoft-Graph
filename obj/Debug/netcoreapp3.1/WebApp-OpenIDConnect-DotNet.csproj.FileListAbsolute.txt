@@ -1,0 +1,326 @@
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\appsettings.json
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.exe
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.deps.json
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.runtimeconfig.json
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.runtimeconfig.dev.json
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.pdb
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.Views.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.Views.pdb
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Certificates.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.MicrosoftGraph.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.UI.Views.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.UI.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.csprojAssemblyReference.cache
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.AssemblyInfoInputs.cache
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.AssemblyInfo.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.RazorAssemblyInfo.cache
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.RazorAssemblyInfo.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.TagHelpers.input.cache
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.TagHelpers.output.cache
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.RazorCoreGenerate.cache
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\Profile.cshtml.g.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.RazorTargetAssemblyInfo.cache
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.RazorTargetAssemblyInfo.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.Views.pdb
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.csproj.CopyComplete
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\staticwebassets\WebApp-OpenIDConnect-DotNet.StaticWebAssets.Manifest.cache
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\staticwebassets\WebApp-OpenIDConnect-DotNet.StaticWebAssets.xml
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.pdb
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.genruntimeconfig.cache
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.csproj.CoreCompileInputs.cache
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.MvcApplicationPartsAssemblyInfo.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.MvcApplicationPartsAssemblyInfo.cache
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\RecentDirveInfo.cshtml.g.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetPlannerInfo.cshtml.g.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\RecentFileInfo.cshtml.g.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\UploadFileOnFolder.cshtml.g.cs
+D:\YihuiProject\New folder\2-WebApp-graph-user\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\SharedFileInfo.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\packages\Microsoft.AspNet.WebApi.HelpPage.5.2.7\Content\Areas\HelpPage\Views\Web.config
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\csc.exe.config
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\vbc.exe.config
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\Roslyn45\VBCSCompiler.exe.config
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csc.exe.config
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\csi.exe.config
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\vbc.exe.config
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\tools\RoslynLatest\VBCSCompiler.exe.config
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\appsettings.json
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.exe
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.deps.json
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.runtimeconfig.json
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.runtimeconfig.dev.json
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.pdb
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.Views.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.Views.pdb
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Certificates.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.MicrosoftGraph.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.UI.Views.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.Identity.Web.UI.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.AssemblyInfoInputs.cache
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.AssemblyInfo.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.csproj.CoreCompileInputs.cache
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.MvcApplicationPartsAssemblyInfo.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.RazorAssemblyInfo.cache
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.RazorAssemblyInfo.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\staticwebassets\WebApp-OpenIDConnect-DotNet.StaticWebAssets.Manifest.cache
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.TagHelpers.input.cache
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.TagHelpers.output.cache
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.RazorCoreGenerate.cache
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetPlannerInfo.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\Profile.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\RecentDirveInfo.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\RecentFileInfo.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\SharedFileInfo.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\UploadFileOnFolder.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Home\_TestPartial.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AnotherPartial.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.RazorTargetAssemblyInfo.cache
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.RazorTargetAssemblyInfo.cs
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.Views.pdb
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.csproj.CopyComplete
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.pdb
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.genruntimeconfig.cache
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\bin\Debug\netcoreapp3.1\Dropbox.Api.dll
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\WebApp-OpenIDConnect-DotNet.csprojAssemblyReference.cache
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\staticwebassets\WebApp-OpenIDConnect-DotNet.StaticWebAssets.xml
+D:\OneDrive - Microsoft\Desktop\2-1-Call-MSGraph\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApp-OpenIDConnect-DotNet.styles.css

@@ -1,0 +1,60 @@
+﻿@using Newtonsoft.Json.Linq
+@using _2_1_Call_MSGraph.Models
+@{
+    ViewData["Title"] = "RecentFileInfo";
+}
+
+
+<br />
+
+<table class="table-bordered ">
+    <tbody>
+        @{
+            //as Microsoft.Graph.Drive
+            var fileInfo = (List<RecentFiles>)ViewData["filesInfo"];
+            foreach (var item in fileInfo)
+            {
+
+                <tr>
+
+                    <td><strong>Serial No</strong></td>
+                    <td><strong> @item.SerialNo</strong></td>
+                </tr>
+                <tr>
+
+                    <td>File Name</td>
+                    <td> @item.FileName</td>
+                </tr>
+                <tr>
+                    <td>Web URL</td>
+                    <td><a href="@item.WebUrl" target="_blank">@item.WebUrl</a></td>
+                </tr>
+                <tr>
+                    <td>Created Time</td>
+                    <td>@item.CreatedDateTime </td>
+                </tr>
+                @*<tr>
+                    <td>Delete Folder</td>
+
+                    @using (Html.BeginForm("DeleteFolderOnDrive", "Home", FormMethod.Post))
+                    {
+                <td>
+                    <input type="submit" value="Delete" />
+                    <input class="up" hidden name="fileId" value=" @item.FileId" />
+                    <input class="up" hidden name="fileName" value=" @item.FileName" />
+                </td>
+
+                    }
+
+                </tr>*@
+                <tr>
+                    <td><hr /></td>
+                    <td><hr /></td>
+                </tr>
+
+            }
+
+        }
+    </tbody>
+</table>
+
